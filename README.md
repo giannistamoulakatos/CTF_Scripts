@@ -11,3 +11,7 @@ In this script we insert one image and next with binwalk tool we take a bytes fr
 
 ## Macchanger
 In this script it run service LAN or WLAN and give us a random MAC address with macchanger tool.
+
+## Metasploit use script
+
+In this script we insert the exploit from searchsploit and the result is opening a metasploit tool with exploit options. 
